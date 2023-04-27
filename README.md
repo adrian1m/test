@@ -1,4 +1,4 @@
 # test
-Just a tets
+Just a test
 
-Editat direct in git
+Editat in vim
