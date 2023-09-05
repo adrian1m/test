@@ -1,4 +1,4 @@
 #!/bin/bash 
 
 
-echo "Hello Bogdan!"
+echo "Hello World si Bogdan!"
